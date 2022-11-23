@@ -4,8 +4,11 @@
 
 🔵 13.09.2022
 
+🔵 Reupload 23.11.2022
+
 🔵 Link: [serhatcan.dev/](https://serhatcan.dev/)
 
 🔵 Summary: My own official site. Everything belongs to me.
 
-![Capture](https://user-images.githubusercontent.com/85739464/192558701-289f2ca7-f918-42dc-b04f-2bef953589b7.PNG)
+
+![main](https://user-images.githubusercontent.com/85739464/203529752-0c860dbb-a032-4fa7-b456-b0e31e1993f8.png)
