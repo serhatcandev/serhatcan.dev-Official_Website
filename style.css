@@ -298,22 +298,22 @@ li {
 }
 
 .html {
-  width: 90%;
+  width: 95%;
   animation: html 3s;
 }
 
 .css {
-  width: 75%;
+  width: 85%;
   animation: css 3s;
 }
 
 .javascript {
-  width: 60%;
+  width: 40%;
   animation: javascript 3s;
 }
 
 .react {
-  width: 20%;
+  width: 15%;
   animation: react 3s;
 }
 
@@ -323,7 +323,7 @@ li {
   }
 
   100% {
-    width: 90%;
+    width: 95%;
   }
 }
 
@@ -333,7 +333,7 @@ li {
   }
 
   100% {
-    width: 75%;
+    width: 85%;
   }
 }
 
@@ -343,7 +343,7 @@ li {
   }
 
   100% {
-    width: 60%;
+    width: 40%;
   }
 }
 
@@ -353,7 +353,7 @@ li {
   }
 
   100% {
-    width: 20%;
+    width: 15%;
   }
 }
 
